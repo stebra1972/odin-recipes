@@ -5,9 +5,50 @@
 
 div {
     color: #e11b5d;
-    background-color: rgba(167, 87, 300, 0.65);
+    background-color: rgba(67, 87, 300, 0.65);
   }
   
   p {
     color: rgb(13, 255, 0);
   }
+
+  .box {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+
+  button {
+    background:rgba(67, 87, 300, 0.65);
+    border: 1px solid #121010;
+  }
+
+  body {
+    background:rgba(67, 87, 300, 0.65);
+    font-family: sans-serif;
+  }
+  
+  .card {
+    width: 400px;
+    background:rgba(67, 87, 300, 0.65);
+    margin: 16px auto;
+  }
+  
+  .title {
+    background:rgba(67, 87, 300, 0.65);
+  }
+  
+  .content {
+    background:rgba(67, 87, 300, 0.65);
+  }
+  
+  .button-container {
+    background:rgba(67, 87, 300, 0.65);
+  }
+  
+  button {
+    background:rgba(67, 87, 300, 0.65);
+    border: 1px solid #eee;
+  }
+  
